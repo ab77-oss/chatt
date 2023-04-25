@@ -1,6 +1,6 @@
 import useCurrentUser from '@/hooks/useCurrentUser'
 import useUser from '@/hooks/useUser'
-import useEditModal from '@/hooks/useeditModal'
+import useEditModal from '@/hooks/useEditModal'
 import axios from 'axios'
 import React, { useCallback, useEffect, useState } from 'react'
 import { toast } from 'react-hot-toast'
