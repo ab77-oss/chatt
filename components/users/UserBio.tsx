@@ -5,7 +5,7 @@ import { format } from "date-fns";
 import useCurrentUser from "@/hooks/useCurrentUser";
 import useUser from "@/hooks/useUser";
 import useFollow from "@/hooks/useFellow";
-import useEditModal from "@/hooks/useeditModal";
+import useEditModal from "@/hooks/useEditModal";
 
 import Button from "../Button";
 
